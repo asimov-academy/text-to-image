@@ -7,6 +7,8 @@
 3. [Instalação de Dependências com Poetry](#instalação-de-dependências-com-poetry)
 4. [Executando o Script de Teste](#executando-o-script-de-teste)
 5. [Documentação de Inferência](#documentação-de-inferência)
+6. [FLUX.1 Arquitetura](#flux1-arquitetura)
+7. [FLUX.1 vs Stable Diffusion](#flux1-vs-stable-diffusion)
 
 ---
 
@@ -119,3 +121,11 @@ Este script de teste carregará os modelos, executará inferências baseadas em 
 ## Documentação de Inferência
 
 Para obter detalhes sobre como personalizar inferências e utilizar os diferentes parâmetros dos modelos, consulte a [Documentação de Inferência](./docs/inference.md).
+
+## FLUX.1 Arquitetura
+
+Para obter detalhes sobre a arquitetura do modelo Flux.1 da black forest labs, consulte a [FLUX.1 vs Stable Diffusion](./docs/flux1_architecture.md).
+
+## FLUX.1 vs Stable Diffusion
+
+Para saber pontos fortes e fracos dos modelos em um comparativo, consulte a [FLUX.1 vs Stable Diffusion](./docs/flux_vs_sd.md).
