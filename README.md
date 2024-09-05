@@ -124,7 +124,7 @@ Para obter detalhes sobre como personalizar inferências e utilizar os diferente
 
 ## FLUX.1 Arquitetura
 
-Para obter detalhes sobre a arquitetura do modelo Flux.1 da black forest labs, consulte a [FLUX.1 vs Stable Diffusion](./docs/flux1_architecture.md).
+Para obter detalhes sobre a arquitetura do modelo Flux.1 da black forest labs, consulte a [FLUX.1 Arquitetura(./docs/flux1_architecture.md).
 
 ## FLUX.1 vs Stable Diffusion
 
